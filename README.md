@@ -31,7 +31,7 @@ DNS forwarders are a useful feature that allows a DNS server to forward DNS quer
 
 <h3 align="center">On this DNS Forwarder, I use OpenDNS Public IP.</h3>
 
-208.67.222.222 — 208.67.220.220
+<h3 align="center"> 208.67.222.222 — 208.67.220.220</h3>
 
 <h3 align="center">Click “APPLY” and “OK” to save your changes.</h3>
 ![5](https://user-images.githubusercontent.com/86381942/209291431-3893d11e-b3b8-4cb5-a3c3-189bbac785a6.png)
